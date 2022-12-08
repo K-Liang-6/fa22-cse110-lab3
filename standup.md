@@ -1,1 +1,1 @@
-
+*Standup Meeting Template
