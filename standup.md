@@ -17,7 +17,6 @@ Member E:<br>
 Member F:<br>
 Member G:<br>
 Member H:<br>
-<br>
 
 **Meeting Agenda:**
 1.
