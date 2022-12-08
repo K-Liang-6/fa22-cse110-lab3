@@ -1,13 +1,13 @@
 Standup Meeting Template
 <br>
 
-**Meeting Details**
+**Meeting Details**<br>
 Location:<br>
 Time:<br>
 Previous Meeting:<br>
 Meeting Slides:<br>
 
-**Meeting Attendance: (Library/Zoom/Not here)**
+**Meeting Attendance: (Library/Zoom/Not here)**<br>
 Member A:<br>
 Member B:<br>
 Member C:<br>
@@ -26,7 +26,7 @@ Member H:<br>
 **Desicions:**
 <br>
 
-**Meeting Notes:**
+**Meeting Notes:**<br>
 1.
 2.
 <br>
