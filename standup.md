@@ -1,4 +1,4 @@
-Standup Meeting Template
+###Standup Meeting Template
 <br>
 
 **Meeting Details**<br>
@@ -27,7 +27,7 @@ Member H:<br>
 <br>
 
 **Meeting Notes:**<br>
-1.
+1.<br>
 2.
 <br>
 
