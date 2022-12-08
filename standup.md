@@ -1,29 +1,35 @@
 #Standup Meeting Template
+<br>
 
 **Meeting Details**
 Location:
 Time:
 Previous Meeting:
 Meeting Slides:
+<br>
 
 **Meeting Attendance: (Library/Zoom/Not here)**
-Member A:
-Member B:
-Member C:
-Member D:
-Member E:
-Member F:
-Member G:
-Member H:
+Member A:<br>
+Member B:<br>
+Member C:<br>
+Member D:<br>
+Member E:<br>
+Member F:<br>
+Member G:<br>
+Member H:<br>
+<br>
 
 **Meeting Agenda:**
 1.
 2.
 3.
+<br>
 
 **Desicions:**
+<br>
 
 **Meeting Notes:**
 1.
 2.
+<br>
 
