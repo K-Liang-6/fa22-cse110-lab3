@@ -2,11 +2,10 @@
 <br>
 
 **Meeting Details**
-Location:
-Time:
-Previous Meeting:
-Meeting Slides:
-<br>
+Location:<br>
+Time:<br>
+Previous Meeting:<br>
+Meeting Slides:<br>
 
 **Meeting Attendance: (Library/Zoom/Not here)**
 Member A:<br>
